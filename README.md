@@ -22,4 +22,4 @@ To speed things up we've created a mocking end-points to retrieve the data
 * UI
 
 ### Delivery method
-Create a new branch from `master`, when done create a pull request to merge with `master` branch
+Create a new branch using your name from `master`, when done create a pull request to merge with `master` branch
